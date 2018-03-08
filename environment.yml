@@ -1,0 +1,13 @@
+name: practical_rl
+channels:
+  - pytorch
+dependencies:
+  - jupyter=1.0.0
+  - numpy=1.14.0
+  - matplotlib=2.1.2
+  - python=2.7.14
+  - pytorch=0.3.1
+  - torchvision=0.2.0
+  - pip:
+    - gym==0.9.7
+
