@@ -5,6 +5,8 @@ dependencies:
   - jupyter=1.0.0
   - numpy=1.14.0
   - matplotlib=2.1.2
+  - scipy=1.0.0
+  - pandas=0.22.0
   - python=2.7.14
   - pytorch=0.3.1
   - torchvision=0.2.0
